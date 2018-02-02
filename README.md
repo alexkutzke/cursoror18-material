@@ -25,7 +25,7 @@ Nesse sentido, para que tudo corra como planejado, é importante que todos os pa
 * [VirtualBox]
 * [Git]
 * [Vagrant]
-* Editor de texto como [Sublime Text] [Atom] ou Vim! :)
+* Editor de texto como [Sublime Text], [Atom] ou Vim! :)
 
 ## Instruções para instalação
 
