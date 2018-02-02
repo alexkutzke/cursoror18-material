@@ -71,6 +71,8 @@ $ vagrant ssh
 
 Caso, após os comandos acima, um terminal de uma máquina virtual Ubuntu esteja disponível, como no exemplo a seguir, então sua instalação foi realizada com sucesso.
 
+> Se tiver problemas, tente a box "hashicorp/precise32".
+
 ```bash
 $ vagrant ssh
 Welcome to Ubuntu 12.04 LTS (GNU/Linux 3.2.0-23-generic-pae i686)
