@@ -9,6 +9,7 @@ SEPT/UFPR
 # Material das aulas
 
 * [Aula 01 - Introdução](01.md)
+* [Aula 02 - Passo-a-passo do Rails Guides](02.md)
 
 # Sobre o Curso
 
