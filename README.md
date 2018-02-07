@@ -10,6 +10,7 @@ SEPT/UFPR
 
 * [Aula 01 - Introdução](01.md)
 * [Aula 02 - Passo-a-passo do Rails Guides](02.md)
+* [Aula 03 - Uma primeira aplicação](03.md)
 
 # Sobre o Curso
 
