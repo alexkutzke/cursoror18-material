@@ -12,6 +12,7 @@ SEPT/UFPR
 * [Aula 02 - Passo-a-passo do Rails Guides](02.md)
 * [Aula 03 - Uma primeira aplicação](03.md)
 * [Aula 04 - Ajax e login](04.md)
+* [Aula 05 - Autorização](05.md)
 
 # Sobre o Curso
 
